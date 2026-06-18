@@ -10,15 +10,22 @@
 "validation": {
 "demand": "",
 "competition": "",
-"risks": ""
+"risks": "",
+"solo_viability": "",
+"capital_required": "",
+"marketing_sales_channel": ""
 },
 "score": {
 "demand": 0,
 "competition": 0,
 "ease_of_execution": 0,
+"capital_fit": 0,
 "profit_potential": 0,
+"solo_marketing_and_sales": 0,
 "total": 0
-}
+},
+"disqualified": false,
+"disqualification_reason": ""
 }
 ],
 "recommended_idea": ""
