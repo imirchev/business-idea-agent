@@ -1,0 +1,25 @@
+{
+"market": "",
+"problem": "",
+"ideas": [
+{
+"name": "",
+"description": "",
+"target_customer": "",
+"monetization": "",
+"validation": {
+"demand": "",
+"competition": "",
+"risks": ""
+},
+"score": {
+"demand": 0,
+"competition": 0,
+"ease_of_execution": 0,
+"profit_potential": 0,
+"total": 0
+}
+}
+],
+"recommended_idea": ""
+}
