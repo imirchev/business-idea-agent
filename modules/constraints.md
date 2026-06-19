@@ -9,21 +9,15 @@ Filter every idea through the solo operator profile BEFORE scoring. Any idea tha
 The person running this business:
 - Has a full-time job (40+ hrs/week)
 - Can dedicate maximum 10–15 hours/week to the business
-- Has a startup budget of $5K–$20K, achievable with own money + a small loan
+- Has a startup budget of $5K–$100K, achievable with own money + a small loan
 - Has no employees and cannot hire any to start
-- Must use AI to replace all roles: support, operations, content, outreach, delivery
-- Marketing AND sales must be executable solo and largely automated with AI tools — no sales team, no outsourced agency, no ad budget above $500/mo
+- possible to use AI to replace all roles, but can also find freelancers: support, operations, content, outreach, delivery
+- Marketing AND sales must be executable solo or with offshore freelancersand largely automated with AI tools — no sales team, no outsourced agency, no ad budget above $500/mo
 - Needs revenue within 90 days of starting
 
 ## HARD DISQUALIFICATION RULES
 
 Discard any idea that requires:
-- A team, co-founder, or hired staff to operate
-- More than $20K in startup capital (target range: $5K–$20K, own money + small loan)
-- A marketing or sales motion that cannot be largely automated with AI tools by one person
-- Regulatory licensing that takes more than 3 months to obtain (e.g. SEC/FINRA, medical license)
-- A two-sided marketplace (requires simultaneous supply + demand acquisition)
-- Enterprise B2B sales cycles (demos, procurement, legal review)
 - Brick-and-mortar presence
 - An app or platform requiring engineering work the founder cannot do alone with AI tools
 
@@ -42,6 +36,7 @@ Not accepted: paid ads above $500/mo, PR campaigns, trade shows, outbound sales 
 
 ## IDEA PATTERNS THAT CONSISTENTLY PASS
 
+- Business focused on something reusable that can be sold multiple times or repeatable process
 - Service business delivered with AI (human judgment + AI labor = solo scalability)
 - Async delivery model (WhatsApp, Notion, Loom) — decouples time from client count
 - Monthly retainer pricing — predictable revenue, no constant reselling

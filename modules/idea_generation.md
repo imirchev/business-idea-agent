@@ -19,9 +19,9 @@ Fear of Uncertainty
 The closer the alignment with those categories the higher the scope in the scoring.md tool
 
 * The business need to AI proven
-* Need to be achievable with a $5K–$20K budget (own money + small loan)
+* Need to be achievable with a $5K–$100K budget (own money + small loan)
 * Must be runnable by ONE person alongside a full-time job (max 10–15 hrs/week to start)
-* AI must replace what would otherwise require employees (content, support, outreach, operations)
+* AI or cheap upwork labor must replace what would otherwise require employees (content, support, outreach, operations)
 * Marketing AND sales must be easily achievable solo with AI tools — no sales team, no agency, no ad budget above $500/mo
 * Each idea must be distinct
 * Avoid shallow variations of the same concept
