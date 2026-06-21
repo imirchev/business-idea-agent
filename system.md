@@ -37,6 +37,7 @@ You MUST apply them sequentially.
 * Focus on real-world execution feasibility
 * Prioritize problems with clear demand
 * Prefer ideas with monetization clarity
+* PLAIN LANGUAGE — write for a non-expert reader. Do NOT use abbreviations, acronyms, or industry jargon. Spell every term out in full and, where useful, add a short plain-English explanation in parentheses. For example: write "the average amount a customer spends per order" instead of "AOV"; "brands that sell directly to shoppers online" instead of "DTC"; "getting more website visitors to actually buy" instead of "CRO." If a technical term is unavoidable, define it the first time it appears.
 
 ## OUTPUT REQUIREMENT
 

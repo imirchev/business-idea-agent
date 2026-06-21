@@ -57,6 +57,17 @@ Re-ran Financial Services & Banking under the new framework. Results:
 
 ---
 
+## Output Style: Plain Language, No Abbreviations (user feedback)
+
+The user is not a marketing/e-commerce specialist and should not have to decode jargon. Going forward, every run must:
+- Avoid abbreviations and acronyms entirely (no "DTC," "AOV," "CRO," "SEO," "MRR," "B2B," etc. used bare).
+- Spell each term out in full, and add a short plain-English explanation in parentheses the first time it appears.
+- Examples: "average amount a customer spends per order" (not "AOV"); "brands that sell directly to shoppers online" (not "DTC"); "getting more visitors to buy" (not "CRO"); "money that comes in every month from subscriptions" (not "MRR").
+
+Enforced in system.md RULES (agent_learnings.md is not loaded at runtime, so the rule must live in a module to take effect).
+
+---
+
 ## What High-Scoring Ideas Look Like
 
 Patterns from ideas that scored 7+ on both Ease of Execution and Solo Marketing:
