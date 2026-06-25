@@ -195,6 +195,108 @@ Ideas worth pursuing, added manually after each category review.
 
 ---
 
+### HostCover — 47/60 (Category 7: Insurance) — Miami short-term-rental focus
+
+**Psychological driver:** Fear of uncertainty / fear of loss (people renting their homes to travelers are terrified of a guest injury, property damage, or a denied claim wiping out their investment).
+
+**What the business actually is:** A licensed insurance brokerage (a broker shops policies from many insurance companies on the customer's behalf and earns a commission from the insurance company per policy) focused only on people who rent out their homes to travelers (short-term rentals, like properties on Airbnb and Vrbo). These owners have a real problem: a normal home insurance policy usually doesn't cover renting to guests, so they are often dangerously underinsured without realizing it. You get licensed, partner with the insurance companies that specialize in this coverage, and serve owners remotely. Artificial intelligence creates educational content explaining the coverage gaps; a low-cost overseas assistant handles paperwork and renewals; the founder advises and builds relationships.
+
+**Why Miami:** Miami is one of the largest short-term-rental markets in the country (Miami Beach, Brickell, and surrounding areas are packed with Airbnb owners). That gives a huge local pool of underinsured, worried owners right where the founder lives — in-person trust-building is possible, and no second language is required (a bilingual edge is a bonus, not a requirement). This is why HostCover fits the founder's situation far better than the in-language CommunityCover idea, which depended on serving an underserved language community the founder can't reach.
+
+**Why it sells:** Most short-term-rental owners don't know their regular home insurance won't cover a guest accident until it's too late — and once they understand the risk to their valuable property, getting proper coverage becomes urgent. A specialist who clearly explains the danger and fixes it is an easy sell.
+
+**Target customer:** Individual owners of one to several short-term-rental properties. Starting wedge: owners in the Miami area, so referrals spread within that local host community.
+
+**Monetization:** A commission from the insurance company on each policy, paid again every year when the customer renews. Short-term-rental policies cost more than normal home policies, so the commissions are larger, and hosts often own multiple properties and refer other hosts — building steady, repeating yearly income.
+
+**Capital breakdown (roughly $5,000–$13,000 to start):** Licensing and mistake-protection insurance ($1,000–$3,000); customer-management tools ($1,000–$2,000); overseas assistant ($2,000–$5,000); website and educational content ($1,000–$3,000).
+
+**Competition research → Score 7/10 (fairly low competition):**
+- **Proper Insurance** — the best-known specialist in short-term-rental coverage; strong, but one national player can't own a fragmented local market.
+- **Steadily, Obie** — landlord-focused insurance companies; adjacent, but more about long-term rentals than short-term travel rentals.
+- **Regular local agents (for example State Farm agents)** — most don't understand short-term rentals and either decline them or sell the wrong policy.
+- **Wedge:** an education-first specialist broker embedded in the Miami host community, fixing the coverage-gap problem most regular agents don't even recognize.
+- **Justification:** a few specialists exist but the niche is large, growing, and mostly served by generalist agents who get it wrong.
+
+**Marketing & sales channel:** Post coverage-gap warnings and explainers in short-term-rental owner communities — Facebook host groups, the BiggerPockets real-estate-investing forum, and short-term-rental YouTube channels — plus in-person networking with Miami-area hosts and property managers. The "your home insurance won't cover this — here's proof" message is attention-grabbing and shareable. Artificial intelligence drafts the content.
+
+**Scorecard**
+
+| Demand | Competition | Ease | Capital Fit | Profit | Solo Mktg | **Total** |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 8 | 7 | 7 | 9 | 8 | 8 | **47/60** |
+
+---
+
+### ⭐ SipStudio — 50/60 (Category 9: Food & Beverage)
+
+**Psychological driver:** Aspiring people's desire to get rich (brand owners know that constant, gorgeous social content builds the brand and drives sales).
+
+**What the business actually is:** A done-for-you content studio that produces a steady monthly stream of beautiful short videos and images for brands in one highly-visual product niche. Artificial intelligence generates and edits the short videos, captions, and images (working from the brand's own clips and product shots); the founder directs style and decides what will perform; a low-cost overseas assistant schedules and organizes. You deliver roughly 15–25 polished pieces of content per month per brand — the exact thing they can't keep up with in-house.
+
+**Why focused on a niche (important):** The model works for almost any product, but the *focus* is what earns the high score. "Content for any product" describes a generic social-media agency (tens of thousands of competitors → competition drops to ~5). Specializing in one visual niche makes competition low (7), wins clients faster, and commands higher fees. **Recommended starting niche: craft and functional beverage brands** (craft sodas, kombucha, energy/wellness drinks, cold brew, non-alcoholic spirits) because drinks are the best-fit category — intensely visual, content-hungry every week, and brand-obsessed. Strong alternative starting niches: beauty, snacks, or pet products. The plan: dominate one visual niche first, then expand into neighboring product types. (Same "pick one lane first" logic as CreativeForge.)
+
+**Why it sells:** In visual product categories (drinks especially), the demand for fresh content is constant and never-ending — every week, not once in a while. That constant weekly need is what makes demand so strong (the same quality that lets advertising services score top marks). Brand-image-driven clients are also less price-sensitive than, say, a small restaurant.
+
+**Target customer:** Small and growing brands in one visual niche that compete on aesthetics and social media. Starting wedge: one beverage type (for example functional wellness drinks) so style and examples build up and you become "the" content person for that niche.
+
+**Monetization:** A monthly fee of roughly $2,000–$4,000 per brand for a set amount of content, repeating and sticky. Very high profit margin (artificial intelligence does most of the production). One person can serve roughly 8–12 brands. Entry offer: a free sample week to prove value before the monthly fee starts.
+
+**Capital breakdown (roughly $3,000–$9,000 to start):** Artificial-intelligence video and image tool subscriptions ($2,000–$4,000 per year); a low-cost overseas assistant ($1,000–$3,000); a portfolio and simple website ($1,000–$2,000). No inventory.
+
+**Competition research → Score 7/10 (fairly low competition):**
+- **Generalist social-media agencies** — serve any business, don't specialize, often slow and expensive.
+- **Freelance content creators (Fiverr, Upwork)** — inconsistent, not managed for a steady monthly flow.
+- **Beverage-branding agencies (for example CODO Design)** — focus on upfront brand/packaging, not ongoing daily content.
+- **Wedge:** a content specialist for one visual niche, using artificial intelligence to deliver a constant high-volume flow generalists and freelancers can't match for the price.
+- **Justification:** plenty of generalist competition, but a focused artificial-intelligence-powered niche-content specialist is genuinely uncommon — which keeps competition in that specific niche low. (Broadening to "any product" would drop this to ~5.)
+
+**Marketing & sales channel (scores 9):** The work is the advertisement — you post the stunning content you create and it *is* the proof. Drink/food content is among the most shareable content there is, so it spreads on its own. Reach brand owners directly through Instagram and industry communities; offer a free sample week as the hook. Output doubles as marketing, so customer acquisition costs almost nothing.
+
+**Scorecard**
+
+| Demand | Competition | Ease | Capital Fit | Profit | Solo Mktg | **Total** |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 9 | 7 | 8 | 9 | 8 | 9 | **50/60** |
+
+**Why recommended:** A genuine 50 — the category has all three ingredients at once: constant weekly demand, easy-to-reach customers via a self-marketing channel (the content is the advertisement, and food/drink is the most shareable content type), and push-button delivery by artificial intelligence. Stays at 50 only while focused on one visual niche; broadening to "any product" lowers it.
+
+---
+
+### RenoReel — 47/60 (Category 10: Construction & Infrastructure)
+
+**Psychological driver:** Aspiring people's desire to get rich (remodeling contractors want a steady flow of new jobs, and great project content is what brings leads in).
+
+**What the business actually is:** A done-for-you content service that turns a remodeling contractor's project photos and clips into scroll-stopping before-and-after videos and posts — the dramatic "look at this kitchen transformation" content that performs incredibly well on social media and brings in new customers. The contractor sends raw phone footage from their job sites; artificial intelligence edits it into polished reveal videos, writes the captions, and schedules the posts; the founder directs style and quality; a low-cost overseas assistant handles organizing and scheduling.
+
+**Why it sells:** Home-transformation content is some of the most shareable content there is — before-and-after reveals rack up huge views — and it directly generates leads for remodelers. But contractors are out on job sites all day with neither the time nor the skill to produce it. A service that turns their raw footage into a steady stream of polished, lead-generating content is valuable, and almost none of their competitors do it well. Bonus: construction has the lowest artificial-intelligence adoption of any industry, so competition is genuinely thin.
+
+**Target customer:** Residential remodeling contractors — kitchen and bath remodelers, home renovators, landscapers, pool builders — whose work produces dramatic visual transformations. Starting wedge: one trade (for example kitchen-and-bath remodelers) so style and examples build up.
+
+**Monetization:** A monthly fee of roughly $1,000–$2,500 per contractor for a set amount of content, repeating. High profit margin (artificial intelligence does most of the editing). Entry offer: turn one of their past projects into a free sample reveal video to prove the value.
+
+**Capital breakdown (roughly $3,000–$9,000 to start):** Artificial-intelligence video and editing tools ($2,000–$4,000 per year); a low-cost overseas assistant ($1,000–$3,000); a portfolio and simple website ($1,000–$2,000). No inventory.
+
+**Competition research → Score 7/10 (fairly low competition):**
+- **General social-media and marketing agencies** — serve anyone, don't specialize in construction, rarely understand what makes transformation content work.
+- **Freelance videographers** — produce one-off videos, not a managed steady monthly flow, and are expensive.
+- **Houzz (home-renovation platform)** — gives contractors a profile and gallery, but doesn't produce ongoing social content.
+- **Local contractor-marketing companies (for example Hibu)** — build websites and run ads, not a constant content stream.
+- **Wedge:** an artificial-intelligence-powered content specialist for remodelers in an industry that barely uses artificial intelligence — almost no direct competition.
+- **Justification:** general competitors exist, but a construction-specialized, artificial-intelligence-fast content service is genuinely rare in this low-technology sector.
+
+**Marketing & sales channel:** The work advertises itself — post the jaw-dropping before-and-after reveals you create, and they prove the service while spreading on their own. Reach contractors in their Facebook and trade communities, and offer a free sample reveal of one of their past jobs. The output doubles as the marketing.
+
+**Note on the ceiling (47, not 50):** Demand is an honest 8 — contractors are often already busy and undervalue marketing, so it's not the desperate weekly need a consumer brand has, and they're more price-sensitive (profit 7). Those two points are the gap versus the 50-scoring content studios (CreativeForge, SipStudio), which serve constantly-content-hungry consumer brands.
+
+**Scorecard**
+
+| Demand | Competition | Ease | Capital Fit | Profit | Solo Mktg | **Total** |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 8 | 7 | 8 | 9 | 7 | 8 | **47/60** |
+
+---
+
 ## Pending Categories
 
 | # | Category | Status |
@@ -205,7 +307,7 @@ Ideas worth pursuing, added manually after each category review.
 | 4 | Real Estate | ⏳ Needs re-run (old criteria) |
 | 5 | E-commerce & Retail | ✅ Done (6-dim /60) — StoryKid + CreativeForge shortlisted |
 | 6 | Energy & Utilities | ✅ Done (6-dim /60) — RebateFinder shortlisted |
-| 7 | Insurance | ⏳ Not run |
+| 7 | Insurance | ✅ Done (6-dim /60) — HostCover shortlisted (Miami short-term-rental focus) |
 | 8 | Manufacturing | ⏳ Not run |
-| 9 | Food & Beverage | ⏳ Not run |
-| 10 | Construction & Infrastructure | ⏳ Not run |
+| 9 | Food & Beverage | ✅ Done (6-dim /60) — SipStudio shortlisted (start in one visual niche, e.g. beverages) |
+| 10 | Construction & Infrastructure | ✅ Done (6-dim /60) — RenoReel shortlisted |
