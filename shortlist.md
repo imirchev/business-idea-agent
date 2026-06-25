@@ -164,6 +164,37 @@ Ideas worth pursuing, added manually after each category review.
 
 ---
 
+### RebateFinder — 46/60 (Category 6: Energy & Utilities)
+
+**Psychological driver:** Aspiring people's desire to get rich, plus fear of loss (there is free government money available for home energy upgrades, and people hate missing out on it).
+
+**What the business actually is:** A done-for-you service helping homeowners and small businesses find and claim the government rebates and tax credits available for energy upgrades — solar panels, heat pumps (efficient heating-and-cooling systems), insulation, windows, and electric-vehicle (battery-powered car) chargers. A large amount of this money is available across federal, state, and local utility programs, but the rules are scattered and confusing, so most people never claim it. You gather the customer's details, use artificial intelligence to match them to every program they qualify for, prepare the application paperwork, and walk them through claiming it. Artificial intelligence does the program-matching and form-filling; a low-cost overseas assistant tracks deadlines and paperwork by area; the founder checks quality and advises. A simple, repeatable process applied to thousands of households.
+
+**Why it sells:** The offer is almost free money the customer didn't know they could get, and the rules are too confusing for most people to navigate alone. "We'll get you the government money you're owed for your home upgrades" is an easy yes, especially when you charge based on what they actually receive.
+
+**Target customer:** Homeowners who recently did or are planning an energy upgrade (solar, heating-and-cooling, insulation), and small businesses doing the same. Sharpest starting wedge: people who just installed solar panels or a heat pump, because their rebate amounts are large and the need is immediate.
+
+**Monetization:** Either a flat fee of roughly $150–$500 per household, or a percentage (around 15–25 percent) of the rebate money you successfully get them. Larger commercial projects can be worth far more. Low cost to deliver each one (artificial intelligence + assistant), so profit comes from volume.
+
+**Capital breakdown (roughly $6,000–$15,000 to start):** Artificial-intelligence tools and access to rebate-program data ($3,000–$6,000); a low-cost overseas assistant for the first few months ($2,000–$5,000); a simple website and content explaining the rebates ($1,000–$3,000); a legal check of how you describe the service per state ($1,000–$2,000).
+
+**Competition research → Score 7/10 (fairly low competition):**
+- **DSIRE** — a free government-funded database listing energy incentives; information only, no help actually claiming anything (do-it-yourself).
+- **Solar and heating installers** — many fill out rebate paperwork for their own customers, but only for the product they are selling, so the advice is biased and partial.
+- **Rewiring America and similar nonprofits** — offer free rebate calculators, again information-only, not a done-for-you service.
+- **Wedge:** an independent, do-it-all-for-you service handling every program across all the customer's upgrades — neither the free databases (information only) nor the installers (biased and partial) do this.
+- **Justification:** existing help is either a self-service list or a biased salesperson; almost nobody offers neutral, complete, done-for-you claiming.
+
+**Marketing & sales channel:** Show up in Google when people search for "[my state] energy rebates" or "heat pump rebate" (called search-engine optimization — writing helpful articles so search engines rank your site). Facebook posts in homeowner and home-improvement groups, plus referral partnerships with solar and heating installers (you handle the rebate paperwork their salespeople don't want to). The money hook ("we only get paid from the rebate we win you") makes outreach convert without a sales team.
+
+**Scorecard**
+
+| Demand | Competition | Ease | Capital Fit | Profit | Solo Mktg | **Total** |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| 8 | 7 | 7 | 9 | 7 | 8 | **46/60** |
+
+---
+
 ## Pending Categories
 
 | # | Category | Status |
@@ -173,7 +204,7 @@ Ideas worth pursuing, added manually after each category review.
 | 3 | Healthcare & Medical Services | ✅ Done (6-dim /60) — ElderCompass shortlisted |
 | 4 | Real Estate | ⏳ Needs re-run (old criteria) |
 | 5 | E-commerce & Retail | ✅ Done (6-dim /60) — StoryKid + CreativeForge shortlisted |
-| 6 | Energy & Utilities | ⏳ Not run |
+| 6 | Energy & Utilities | ✅ Done (6-dim /60) — RebateFinder shortlisted |
 | 7 | Insurance | ⏳ Not run |
 | 8 | Manufacturing | ⏳ Not run |
 | 9 | Food & Beverage | ⏳ Not run |
