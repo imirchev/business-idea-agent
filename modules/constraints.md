@@ -15,6 +15,18 @@ The person running this business:
 - Marketing AND sales must be executable solo or with offshore freelancersand largely automated with AI tools — no sales team, no outsourced agency, no ad budget above $500/mo
 - Needs revenue within 90 days of starting
 
+## FOUNDER CONTEXT & STRATEGIC CRITERIA (Round 2+)
+
+The founder's situation and long-term goals add these REQUIRED criteria on top of everything above:
+
+1. **TANGIBLE / PHYSICAL PREFERRED.** The business should produce or sell something physical you can touch — manufactured or produced goods preferred. If the business is digital, it must deliver a substantial real deliverable (a finished product or asset), NOT just advice, a guide, or information.
+
+2. **CROSS-BORDER MOAT (Bulgaria · Mexico · USA).** The founder speaks Bulgarian, Spanish, and English and has business contacts in all three countries. Prefer businesses that trade/operate ACROSS these countries and use the language + contacts advantage as the core competitive moat. Cross-border sourcing, manufacturing, or trade between Bulgaria, Mexico, and the USA is ideal. The USA market may be dropped if a Bulgaria↔Mexico (or BG/MX-focused) model is stronger. Long-term aim: location independence.
+
+3. **AI AS A DURABLE TOOL, NOT THE PRODUCT.** "AI-proven" means you USE AI to run the business — it does NOT mean selling an output that a few prompts could reproduce. Assume AI tools become commonplace for everyone. Avoid businesses whose entire value can be replicated by an average person with multiple prompts/tools. The moat must come from something AI cannot easily copy: physical goods, exclusive supplier relationships, cross-border logistics, brand, certifications, or sourcing.
+
+NOTE: criteria 1 (physical) and 2 (cross-border goods) structurally lower Capital Fit and Ease of Execution (real inventory/logistics), so these businesses typically score in the high-40s rather than 50+. That is expected — the geographic/relationship moat and future-proofing are the payoff, not a higher /60 score.
+
 ## HARD DISQUALIFICATION RULES
 
 Discard any idea that requires:

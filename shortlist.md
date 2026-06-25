@@ -297,6 +297,125 @@ Ideas worth pursuing, added manually after each category review.
 
 ---
 
+---
+---
+
+# ════════════════════════════════════════════════════
+# 🆕 NEW SHORTLIST — ROUND 2: CROSS-BORDER PHYSICAL BUSINESSES
+# Moat: Bulgaria · Mexico · USA (3 languages + contacts) | tangible goods | AI as a tool, not the product
+# ════════════════════════════════════════════════════
+
+**Why these score in the low-to-mid 40s, not 50+:** the "must be physical/tangible" rule lowers Capital Fit (~6, you buy/make inventory) and Ease (~6, real logistics/customs/compliance). The geographic + relationship moat lifts Competition (often 8) and keeps Solo Marketing solid, but can't offset the capital/ease drag. The payoff is a durable, future-proof, location-independent business aligned with the founder's edge — which the /60 score does not capture. **Listing order below is roughly by score but not strict rank.**
+
+**Fit legend:** ✅ strong fit · ⚠️ forced fit (category resists "physical cross-border" — candidate for replacement).
+
+---
+
+### ✅ 1. Bulgarian Rose Beauty — 44/60 (Cat 3: Healthcare & Medical)
+**Driver:** Women's desire for beauty + elderly health (anti-aging).
+**What it is + moat:** A premium natural skincare brand built on Bulgarian rose oil (Bulgaria produces ~85% of the world's rose oil) and Balkan herbal actives, formulated/manufactured in Bulgaria, sold to the USA and Mexico. The moat is exclusive, authentic access to the Bulgarian Rose Valley supply chain via the founder's language + contacts — something a US/Mexican competitor cannot easily replicate, and that AI cannot copy. AI runs marketing, content, and operations.
+**Monetization:** Direct-to-consumer + boutique wholesale; $40–70 per item, premium margins, subscription refills.
+**Competition → 8:** Generic clean-beauty brands (crowded) but almost none with a genuine Bulgarian-rose origin story and direct grower relationships. L'Occitane and a few luxury houses use rose, but none own the affordable authentic-origin DTC niche.
+**Scorecard:** Demand 8 · Competition 8 · Ease 6 · Capital 6 · Profit 8 · Solo Mktg 8 · **Total 44**
+
+---
+
+### ✅ 2. León Leather Co. — 45/60 (Cat 8: Manufacturing #1)
+**Driver:** Status and prestige.
+**What it is + moat:** A leather-goods brand (bags, belts, wallets, boots) manufactured in León, Mexico — Mexico's leather capital — and sold to the USA and Europe. Moat: direct, Spanish-language relationships with León workshops for quality and pricing no English-only competitor can match; "authentic Mexican craftsmanship" brand story. AI handles design iteration, marketing, and store ops.
+**Monetization:** DTC + wholesale; high-margin premium leather goods; made-to-order options reduce inventory.
+**Competition → 8:** Generic leather brands abundant, but few with genuine León production access and a craftsmanship-origin story at accessible prices.
+**Scorecard:** Demand 8 · Competition 8 · Ease 7 · Capital 6 · Profit 8 · Solo Mktg 8 · **Total 45**
+
+---
+
+### ✅ 3. Nearshore Forge — 44/60 (Cat 8: Manufacturing #2)
+**Driver:** Aspiring people's desire to get rich (the brand-owner clients).
+**What it is + moat:** Set up and co-own private-label manufacturing runs in Mexico for US e-commerce brands riding the nearshoring wave (tariffs + supply-chain fear are pushing production out of Asia toward Mexico). You're the on-the-ground principal who speaks the language, vets the factories, and manages real production — delivering physical goods, not advice. Moat: Mexican factory contacts + bilingual trust bridging US brands and Mexican plants. AI handles sourcing research, quoting, and coordination.
+**Monetization:** Margin on production + management retainer; recurring as brands reorder.
+**Competition → 8:** Big sourcing platforms (Xometry) and Asia-focused agents exist, but few bilingual, hands-on Mexico-nearshoring principals for small US brands — a timely, underserved lane.
+**Scorecard:** Demand 8 · Competition 8 · Ease 7 · Capital 6 · Profit 8 · Solo Mktg 7 · **Total 44**
+
+---
+
+### ✅ 4. Artesano — 45/60 (Cat 5: E-commerce & Retail)
+**Driver:** Status and prestige (authentic artisan goods).
+**What it is + moat:** A direct-to-consumer brand of authentic Mexican artisan home goods — Talavera ceramics, Oaxacan textiles, Taxco silver, leather — sourced directly from makers and sold online to the USA/Europe with a fair-trade, named-artisan story. Moat: Spanish-language direct relationships with artisan cooperatives that resellers and AI can't replicate. AI runs the storefront, content, and customer service.
+**Monetization:** DTC e-commerce, strong markups on authentic handmade goods; curated collections/drops.
+**Competition → 8:** Etsy resellers and import shops exist, but few with direct cooperative relationships and a credible authenticity story at brand scale.
+**Scorecard:** Demand 8 · Competition 8 · Ease 7 · Capital 6 · Profit 8 · Solo Mktg 8 · **Total 45**
+
+---
+
+### ✅ 5. Balkan Pantry — 43/60 (Cat 2: Agriculture & Food Production)
+**Driver:** Status/health (premium specialty foods).
+**What it is + moat:** Import and brand Bulgarian specialty foods — organic honey, herbal/mountain teas, walnuts, ajvar/lutenitsa, rose jam, preserves — for US/Mexican specialty and diaspora markets. Moat: direct Bulgarian-language grower/producer relationships. AI handles branding, listings, and marketing.
+**Monetization:** DTC + specialty wholesale; premium "authentic Balkan" margins.
+**Competition → 7:** Specialty-food importers exist; the Bulgarian-origin specialty niche is underserved in the US/MX.
+**Scorecard:** Demand 8 · Competition 7 · Ease 6 · Capital 6 · Profit 8 · Solo Mktg 8 · **Total 43**
+
+---
+
+### ✅ 6. Agave & Vine — 41/60 (Cat 9: Food & Beverage)
+**Driver:** Status + entertainment.
+**What it is + moat:** Build/import a branded beverage line — small-batch Mexican mezcal/agave spirits (or Bulgarian boutique wine) — for the US market, cross-selling between regions. Moat: direct producer relationships in Mexico/Bulgaria + bilingual brand storytelling. AI runs brand and marketing. (Note: alcohol licensing/import permits add complexity — factored into Ease.)
+**Monetization:** Wholesale to bars/retailers + DTC where legal; high-margin premium spirits.
+**Competition → 7:** Crowded spirits market, but authentic small-producer access + story is a real wedge.
+**Scorecard:** Demand 7 · Competition 7 · Ease 6 · Capital 6 · Profit 8 · Solo Mktg 7 · **Total 41** *(licensing drags Ease/Capital)*
+
+---
+
+### ✅ 7. Talavera Tile & Stone — 41/60 (Cat 10: Construction & Infrastructure)
+**Driver:** Status and prestige (design).
+**What it is + moat:** Import premium Mexican handmade Talavera tiles and artisanal stone for US interior designers, builders, and renovators (and cross-sell Bulgarian stone). Moat: Spanish-language direct kiln/quarry relationships; reliable supply most US design buyers can't source alone. AI handles catalog, marketing, and quoting.
+**Monetization:** Wholesale to designers/builders + project orders; strong markups on authentic handmade tile.
+**Competition → 7:** Tile importers exist; the curated handmade-Talavera niche for the design trade is underserved.
+**Scorecard:** Demand 7 · Competition 7 · Ease 6 · Capital 6 · Profit 8 · Solo Mktg 7 · **Total 41**
+
+---
+
+### ✅ 8. Casa Furnish — 40/60 (Cat 4: Real Estate)
+**Driver:** Aspiring people's desire to get rich (short-term-rental owners).
+**What it is + moat:** "Furnish your rental in a box" — furniture and décor packages for short-term-rental owners, made by Mexican artisans (wood, leather, textiles) and sold to US/Mexican rental owners. Moat: Mexican maker relationships + bilingual coordination; tangible delivered product, not a design guide. AI handles design mockups and order management.
+**Monetization:** Per-property furnishing packages (project fees) + repeat orders from portfolio owners.
+**Competition → 7:** Furniture retailers and staging services exist; the artisan-sourced rental-package niche is open.
+**Scorecard:** Demand 7 · Competition 7 · Ease 6 · Capital 6 · Profit 7 · Solo Mktg 7 · **Total 40**
+
+---
+
+### ✅ 9. Balkan Craft — 41/60 (Cat 8: Manufacturing #3)
+**Driver:** Status / home.
+**What it is + moat:** Bulgarian-made physical home goods for EU/US markets — wool/knitwear textiles, wooden kitchenware, or ceramics — using Bulgaria as a low-cost EU manufacturing base. Moat: Bulgarian-language manufacturer access + EU "made in" origin. AI handles design and marketing.
+**Monetization:** DTC + wholesale; mid-premium home-goods margins.
+**Competition → 7:** Home-goods is crowded; authentic Bulgarian-made + EU base is a modest wedge.
+**Scorecard:** Demand 7 · Competition 7 · Ease 7 · Capital 6 · Profit 7 · Solo Mktg 7 · **Total 41**
+
+---
+
+### ⚠️ 10. Aurora Trade Desk — 42/60 (Cat 1: Financial Services) — forced fit
+**Driver:** Desire to get rich.
+**What it is + moat:** A cross-border trade desk: buy specialty physical goods in Bulgaria/Mexico and sell wholesale to US/EU buyers, earning the trade margin and offering buyers payment terms. Tangible (you handle real goods) + financial (trade margin/credit). Moat: 3-country contacts + languages. **Weak fit** — financial services resists "physical product"; this is really an import/trade business wearing a finance label.
+**Competition → 8 (moat) but Ease/Capital low.**
+**Scorecard:** Demand 7 · Competition 8 · Ease 6 · Capital 6 · Profit 8 · Solo Mktg 7 · **Total 42**
+
+---
+
+### ⚠️ 11. BioWarm Pellets — 37/60 (Cat 6: Energy & Utilities) — forced fit
+**Driver:** Fear of uncertainty (energy costs/independence).
+**What it is + moat:** Import/distribute Bulgarian wood pellets and biomass heating products into EU/Balkan and niche US/MX markets. Tangible, cross-border. Moat: Bulgarian producer access. **Weak fit** — bulky low-margin commodity, heavy logistics.
+**Competition → 6.**
+**Scorecard:** Demand 7 · Competition 6 · Ease 6 · Capital 5 · Profit 7 · Solo Mktg 6 · **Total 37**
+
+---
+
+### ⚠️ 12. CargoGuard — 35/60 (Cat 7: Insurance) — weakest fit
+**Driver:** Fear of loss.
+**What it is + moat:** Bonded warehousing + cargo-handling + trade-risk coverage brokerage for cross-border shippers between the three countries (physical goods handling = the only tangible angle insurance allows). Moat: 3-country logistics contacts. **Weakest fit** — insurance is fundamentally intangible/licensed; strongly recommend replacing this slot.
+**Competition → 6.**
+**Scorecard:** Demand 6 · Competition 6 · Ease 5 · Capital 5 · Profit 7 · Solo Mktg 6 · **Total 35**
+
+---
+
 ## Pending Categories
 
 | # | Category | Status |
